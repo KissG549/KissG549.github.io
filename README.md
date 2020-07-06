@@ -1,5 +1,5 @@
 # Gabor's intro site #
-## Developer, ex-infra engineer, IT guy ##
+## Developer, ex-infra engineer ##
 
 ## Interests ##
 Programming, IoT, Arduino, Technology
