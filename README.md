@@ -13,7 +13,7 @@ I would like to continue my career as developer, therefore if you have open juni
   - in multinational environment
   - with enterprise environment
   - with high available system
-  - with missiong critical system
+  - with mission critical system
   - in customer facing role
   - position with high responsibility
   - having ownership
