@@ -1,5 +1,5 @@
 # Gabor's intro #
-## Developer, ex-infra engineer ##
+## C++ developer, network engineer ##
 
 I am a **junior C++ developer** with 9 years of experience in the IT industry, **6+ years of experience in network engineering** and **1 year experience in C++ coding**. I'm eager to learn new things, like programming, microcontrollers, IoT, robotics and AI, also making effort on career development. In the past years, I mostly worked in enterprise area with global companies, like T-Systems Hungary, British Telecom, although I am curious about work in fast paced environment.
 I would like to continue my career as developer, therefore if you have open junior C++ developer position, do not hesitate to contact me!
