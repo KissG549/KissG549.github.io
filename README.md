@@ -44,5 +44,3 @@ Programming, IoT, Arduino, Technology, Space travel, Space technology
 ## Book's ##
 - Elon Musk, Ashlee Vance
 - The Pragmatic Programmer, David Thomas, Andrew Hunt
-
-***gabor.kiss@gmx.com***
